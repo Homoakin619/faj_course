@@ -1,0 +1,10 @@
+.env
+txt-str.py
+*.pyc
+mysite.log
+*.md
+mails
+*.txt
+migrations
+__pycache__
+db.sqlite3
