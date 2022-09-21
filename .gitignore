@@ -5,6 +5,5 @@ mysite.log
 *.md
 mails
 *.txt
-migrations/
 __pycache__/
 *.sqlite3
