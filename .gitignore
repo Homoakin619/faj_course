@@ -4,6 +4,5 @@ txt-str.py
 mysite.log
 *.md
 mails
-*.txt
-__pycache__/
+*.pyc
 *.sqlite3
